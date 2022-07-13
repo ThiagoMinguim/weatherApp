@@ -1,9 +1,10 @@
+import Details from '@/components/Details'
 import { Container } from './styles'
 
 const Home = () => {
   return (
     <Container>
-      <span>home</span>
+      <Details />
     </Container>
   )
 }

@@ -10,16 +10,19 @@ const GlobalStyle = createGlobalStyle`
 
   html{
     font-size: 62.5%;
+    
     height: 100%;
   }
 
 
   body{
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Raleway', sans-serif;
 
     min-height: 100%;
     position: relative;
-    
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+     
     padding-bottom: 6rem;
   }
 
