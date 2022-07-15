@@ -34,7 +34,6 @@ export const ImgContainer = styled.div`
   align-items: center;
   justify-content: center;
   align-content: center;
-  /* z-index: -1; */
 `
 export const TempInfo = styled.div`
   display: flex;
