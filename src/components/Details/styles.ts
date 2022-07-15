@@ -40,8 +40,6 @@ export const TempInfo = styled.div`
   align-content: center;
   justify-content: center;
 
-  /* align-self: flex-end; */
-
   span:first-of-type {
     font-size: 14.4rem;
     font-family: 'Raleway', sans-serif;
