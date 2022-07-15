@@ -37,7 +37,6 @@ export const ImgContainer = styled.div`
 `
 export const TempInfo = styled.div`
   display: flex;
-  /* background-color: white; */
   align-content: center;
   justify-content: center;
 
