@@ -44,7 +44,6 @@ export const TempInfo = styled.div`
     font-size: 14.4rem;
     font-family: 'Raleway', sans-serif;
     color: ${props => props.theme.text.phrase};
-    /* background-color: red; */
   }
 
   p {
