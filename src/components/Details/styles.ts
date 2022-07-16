@@ -51,7 +51,6 @@ export const TempInfo = styled.div`
     font-family: 'Raleway', sans-serif;
 
     color: ${props => props.theme.text.phrase};
-    /* background-color: red; */
   }
 
   span:last-of-type {
@@ -59,7 +58,6 @@ export const TempInfo = styled.div`
     font-weight: bold;
 
     color: ${props => props.theme.text.primary};
-    /* background-color: blue; */
 
     /* align-items: stretch; */
     /* bottom: 0; */
