@@ -59,7 +59,6 @@ export const TempInfo = styled.div`
 
     color: ${props => props.theme.text.primary};
 
-    /* bottom: 0; */
     align-self: flex-end;
     margin-bottom: 5rem;
   }
